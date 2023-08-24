@@ -4,12 +4,19 @@ title: Student Blog
 ---
 
 
-## Saathvik Gampa
-This is about your journey. Start now!!!
+## Saathvik's Computer Science Blog
+Hi! I'm Saathvik Gampa, an **aspiring computer science developer**! I am **15** years old and go to Del Norte High. I am currently in my **Sophomore** year in high school challenging myself with 3 AP courses. Here are more facts about me:
+- **Member** of Del Norte High's robotics team Team Optix 3749
+- DECA **Participant**
+- Aspiring **Tennis Player**
+- **Academically** Driven Student
 
-## Overview of Hacks, Study and Tangibles
-Blogging in GitHub pages is a way to learn and code at the same time. 
+For more visual viewers here is a picture of things that usually takes up most of my time :) :
+![pictureAboutMyself](IMG_3876.jpg)
 
-- Plans, Lists, [Scrum Boards](https://clickup.com/blog/scrum-board/) help you to track key events, show progress and record time.  Effort is a big part of your class grade.  Show plans and time spent!
-- [Hacks(Todo)](https://levelup.gitconnected.com/six-ultimate-daily-hacks-for-every-programmer-60f5f10feae) enable you to stay in focus with key requirements of the class.  Each Hack will produce Tangibles.
-- Tangibles or [Tangible Artifacts](https://en.wikipedia.org/wiki/Artifact_(software_development)) are things you accumulate as a learner and coder. 
+**Social** Media :  
+[Github](https://github.com/SGTech08)  
+[Instagram](https://instagram.com/saathvikg08)  
+
+
+
