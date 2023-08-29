@@ -10,8 +10,19 @@ Hi! I'm Saathvik Gampa, an **aspiring computer science developer**! I am **15** 
 - Aspiring **Tennis Player**
 - **Academically** Driven Student
 
-For more visual viewers here is a picture of things that usually takes up most of my time :) :
+- 👋 Hi, I’m @SGTech08
+- 👀 I’m interested in computer and data science
+- 🌱 I’m currently learning Python, HTML, and JavaScript
+- 💞️ I’m looking to collaborate on projects on Github.
+- 📫 Reach me on Instagram
+
 ![pictureAboutMyself](IMG_3876.jpg)
+
+
+**Social** Media :  
+[Github](https://github.com/SGTech08)  
+[Instagram](https://instagram.com/saathvikg08)  
+
 
 
 ### Here is a little mini game :):
@@ -39,9 +50,4 @@ For more visual viewers here is a picture of things that usually takes up most o
     <input type="text" id="userInput">
     <button onclick="checkInput()">Submit</button>
 </div> 
-
-**Social** Media :  
-[Github](https://github.com/SGTech08)  
-[Instagram](https://instagram.com/saathvikg08)  
-
 
