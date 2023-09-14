@@ -27,7 +27,7 @@ type: hacks
     </div>
     <script>
         async function chatWithGPT(prompt) {
-            const API_KEY = "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"; /* your api key here */
+            const API_KEY = "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"; /* your api key here */
             
             const headers = {
                 "authorization": `Bearer ${API_KEY}`,
