@@ -13,7 +13,7 @@ title: Blogs
   </tr>
 <tr>
     <td>make</td>
-    <td>This runs local severer</td>
+    <td>This runs local server</td>
     <td>Learnt in Week 0</td>
   </tr>
 <tr>
